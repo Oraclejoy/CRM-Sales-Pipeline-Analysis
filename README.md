@@ -19,7 +19,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 **KPIs:**
 - Total Revenue: **$10,005,534**
 - Won Deals: **511**
-- Average Sales Cycle: **67 days**
+- Average Sales Cycle: **48 days**
 
 **Insights:**
 - Top Sales Agent: **Parcel Schlecht ($1,153,214)**
