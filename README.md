@@ -13,7 +13,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 - What factors influence deal success and sales cycle length?
 
 ---
-![Executive Summary](dashboard-images/executive_summary.png)
+![Executive Summary](dashboard-images/Executive_summary.png)
 
 
 
