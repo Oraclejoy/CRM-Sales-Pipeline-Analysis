@@ -53,6 +53,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 - Retail sector generated the highest revenue
 - East region recorded the highest win rate
 - High deal volume does not always translate to high revenue (e.g., Hottechi)
+  ![Account Performance](dashboard-images/account.png)
 
 ---
 
