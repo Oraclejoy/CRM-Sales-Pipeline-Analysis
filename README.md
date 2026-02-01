@@ -13,6 +13,8 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 - What factors influence deal success and sales cycle length?
 
 ---
+![CRM-Sales-Pipeline-Analysis](dashboard_images/Executive summary.png)
+
 
 ## 📊 Key Dashboards
 ### 1️⃣ Sales Performance Overview
