@@ -13,7 +13,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 - What factors influence deal success and sales cycle length?
 
 ---
-![Executive Summary](dashboard-images/Executive_summary.png)
+![Executive Summary](dashboard-images/summary.png)
 
 
 
@@ -28,7 +28,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 - Top Sales Agent: **Parcel Schlecht ($1,153,214)**
 - Lowest Performing Agent: **Violet McClelland ($12,431)**
 - Top Manager by Revenue: **Melvin Marxen**
-
+![Sales Overview](dashboard-images/sales.png)
 ---
 
 ### 2️⃣ Product Performance Dashboard
@@ -43,6 +43,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 - Lowest Revenue Product: **MG Special**
 - Best Revenue Month: **June**
 - Higher price does not prevent strong revenue performance
+  ![Product Analysis](dashboard-images/products.png)
 
 ---
 
