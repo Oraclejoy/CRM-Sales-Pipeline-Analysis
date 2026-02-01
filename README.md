@@ -90,6 +90,7 @@ The goal is to evaluate **sales performance**, **product effectiveness**, and **
 
  Contact
 Joy Owuor  
+www.linkedin.com/in/joyowuor
 
 
 
